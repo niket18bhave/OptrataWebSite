@@ -1,0 +1,39 @@
+@import "../../../assets/sass/pages/login/login-1.scss";
+
+:host {
+  height: 100%;
+}
+
+.in-flex {
+    display: inline-flex !important;
+}
+
+.cardmargin {
+    margin-top: 50px;
+}
+
+.leftal {
+    width: 100%;
+    max-width: none !important;
+}
+
+.width50 {
+    width: 50%;
+}
+
+.auth-banner {
+    background-color: #86bc42 !important;
+    width: 50% !important;
+    position: relative;
+    vertical-align: middle;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    padding: 0;
+    z-index: -1;
+}
+
+.auth-img {
+    max-width: 100%;
+    padding-top: 30%;
+}

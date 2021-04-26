@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\modules",
+    "\\src\\app\\modules\\auth",
+    "\\src\\app\\modules\\auth\\login",
+    "\\src\\app\\modules\\auth\\registration",
+    "\\src\\app\\pages",
+    "\\src\\app\\pages\\builder"
+  ],
+  "SelectedNode": "\\src\\app\\modules\\auth\\auth-routing.module.ts",
+  "PreviewInSolutionExplorer": false
+}
